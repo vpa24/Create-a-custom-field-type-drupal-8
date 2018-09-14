@@ -1,0 +1,7 @@
+name: Information Persional Custom Field
+type: module
+package: Custom
+description: 'Store Persional Field'
+core: 8.x
+dependecies: 
+  -Field
